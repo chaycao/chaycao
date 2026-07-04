@@ -1,4 +1,6 @@
-# Hi, I'm Chay Cao
+# Hi, I'm Chay Cao 👋
+
+[English](README.md) | [中文](README.zh-CN.md)
 
 I explore Vibe Coding, Golang, and AI Music.
 
@@ -36,12 +38,6 @@ What interests me about this project:
 - Practical applications of Vibe Coding
 
 Tech focus: React, TypeScript, Vite, Strudel, WebAudio, AI Agent workflows
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chaycao&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaycao&layout=compact&theme=transparent&hide_border=true)
 
 ## Philosophy
 
